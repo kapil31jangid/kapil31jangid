@@ -81,12 +81,12 @@ Building intelligent applications, solving real-world problems, and continuously
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kapil31jangid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapil31jangid&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=kapil31jangid&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@ Building intelligent applications, solving real-world problems, and continuously
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapil31jangid&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -102,7 +102,7 @@ Building intelligent applications, solving real-world problems, and continuously
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kapil31jangid&theme=tokyonight&no-frame=true&column=4"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@ Building intelligent applications, solving real-world problems, and continuously
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/kapil31jangid" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -118,7 +118,7 @@ Building intelligent applications, solving real-world problems, and continuously
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/kapil31jangid">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
@@ -126,7 +126,7 @@ Building intelligent applications, solving real-world problems, and continuously
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=kapil31jangid&style=for-the-badge&color=2563EB"/>
 </p>
 
 <h3 align="center">
