@@ -17,7 +17,6 @@ Building intelligent applications, solving real-world problems, and continuously
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering at **Silver Oak University**
-- 📖 Pursuing BS in Data Science & Applications from **IIT Madras**
 - 🌐 Secretary, **IEEE SOU SIGHT Student Branch Group**
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 💻 Building scalable web applications using modern technologies
