@@ -30,7 +30,7 @@ Building intelligent applications, solving real-world problems, and continuously
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,c,html,css" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,html,css" />
 </p>
 
 ### Frontend
