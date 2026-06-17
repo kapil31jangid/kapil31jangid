@@ -9,7 +9,7 @@ Building intelligent applications, solving real-world problems, and continuously
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;BS+in+Data+Science+%4[...]"
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student"
 </p>
 
 ---
