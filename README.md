@@ -48,13 +48,13 @@ Building intelligent applications, solving real-world problems, and continuously
 ### Cloud & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,amplify,vercel" />
+<img src="https://skillicons.dev/icons?i=gcp,docker,vercel" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
