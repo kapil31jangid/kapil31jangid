@@ -9,7 +9,7 @@ Building intelligent applications, solving real-world problems, and continuously
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;BS+in+Data+Science+%40+IIT+Madras;Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;BS+in+Data+Science+%4[...]"
 </p>
 
 ---
@@ -30,31 +30,31 @@ Building intelligent applications, solving real-world problems, and continuously
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,vite" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
-### Database
+### Cloud & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=aws,amplify,vercel" />
 </p>
 
-### Tools & Technologies
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
